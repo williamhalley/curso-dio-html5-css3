@@ -1,0 +1,35 @@
+body{
+	/* background: blue; 
+	ou conforme abaixo em rgb OU HEXADECIMAL
+	ver site: https://html-color-codes.info/Codigos-de-Cores-HTML */
+	background: rgb(226, 164, 164);
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+header{
+	margin-top: 70px;
+}
+
+h1{
+	color: white;
+	font-family: arial;
+}
+
+h2{
+	font-family: fantasy;
+}
+
+p{
+	font-size: 18px;
+}
+
+.tipo1{
+	margin-bottom: 30px;
+	width: 300px;
+}
+
+.logo{
+	margin-bottom: 10px;
+	width: 100px;
+}
